@@ -113,3 +113,8 @@ novnc:
     requests:
       cpu: 500m
       memory: 256Mi
+
+window:
+  size:
+    left: 60
+    right: 40
